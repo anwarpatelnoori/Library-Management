@@ -10,5 +10,3 @@ Library Management is a custom app developed for ERPNext to manage library opera
 - **Late Fee Calculation:** Automatically calculate late fees for overdue books.
 - **Reporting:** Access detailed reports for better library management.
 
-## Installation
-1. Clone the Library Management app repository:
